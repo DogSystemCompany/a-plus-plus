@@ -40,17 +40,27 @@ dogsystem@dogsystem.us
 # Support
 
 - Variables
+
  Defining Other Variables To Others  Nope!
+ 
  Expressions  Nope!
+ 
  String And Integer  Yes!
+ 
  By The Way Variables Do Not Require Verification If Defined Integer Or String It Detects Automatic.
+ 
  Custom Errors Nope!
  
 - Printing 
+
  Printing Variables  Nope!
+ 
  Printing Integers  Yes!
+ 
  Printing Single Quotes And Doubles  Yes!
+ 
  Printing Expressions  Nope!
+ 
  Custom Errors  Working On It!
  
 May Expand From Printing And Variables Also If Statements, Loops, Booleans, And Input All Those Basic Stuff!
